@@ -1,4 +1,5 @@
 import base64
+import traceback
 import json
 import os
 import re
@@ -113,13 +114,18 @@ def downloadPage(linkToDownload):
 
 def downloadAllRecipesFromGialloZafferano():
     totalPages = countTotalPages() + 1
-    for pageNumber in tqdm(range(1, totalPages), desc="pages…", ascii=False, ncols=75):
+    for pageNumber in tqdm(range(1, totalPages + 1), desc="pages…", ascii=False, ncols=75):
         linkList = baseURL + "/page" + str(pageNumber)
         response = requests.get(linkList)
         soup = BeautifulSoup(response.text, "html.parser")
         for tag in soup.find_all(attrs={"class": "gz-title"}):
             link = tag.a.get("href")
-            saveRecipe(link)
+            try:
+                saveRecipe(link)
+            except Exception as e:
+                print(f"\nError saving recipe from {link}\n")
+                traceback.print_exc()
+                print()
 
 
 def countTotalPages():
