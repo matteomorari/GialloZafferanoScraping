@@ -12,7 +12,6 @@ from tqdm import tqdm
 
 from ModelRecipe import ModelRecipe
 
-debug = False
 folderRecipes = "Recipes"
 baseURL = "https://www.giallozafferano.it/ricette-cat" # it
 # baseURL = "https://www.giallozafferano.com/latest-recipes" # us
@@ -121,11 +120,6 @@ def downloadAllRecipesFromGialloZafferano():
         for tag in soup.find_all(attrs={"class": "gz-title"}):
             link = tag.a.get("href")
             saveRecipe(link)
-            if debug:
-                break
-
-        if debug:
-            break
 
 
 def countTotalPages():
@@ -141,4 +135,5 @@ if __name__ == "__main__":
     if not os.path.exists(folderRecipes):
         os.makedirs(folderRecipes)
     downloadAllRecipesFromGialloZafferano()
-
+    # Comment the line above and uncomment the line below to download a single recipe (useful for testing)
+    # saveRecipe("https://www.giallozafferano.com/recipes/spring-focaccia.html")
