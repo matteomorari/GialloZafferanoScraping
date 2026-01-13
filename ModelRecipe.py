@@ -2,7 +2,7 @@ class ModelRecipe:
     imageBase64 = ""
     title = ""
     category = ""
-    description = ""
+    description = []
     ingredients = []
 
     def toDictionary(self):

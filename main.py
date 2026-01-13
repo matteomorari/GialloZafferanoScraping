@@ -60,14 +60,14 @@ def findIngredients(soup):
 
 
 def findDescription(soup):
-    allDescription = ""
+    description = []
     for tag in soup.find_all(attrs={"class": "gz-content-recipe-step"}):
-        removeNumbers = str.maketrans("", "", digits)
         if hasattr(tag.p, "text"):
-            description = tag.p.text.translate(removeNumbers)
-            allDescription = allDescription + description
-    return allDescription
-
+            for span in tag.p.find_all("span"):
+                span.decompose()
+            text = tag.p.get_text(strip=True)
+            description.append(text)
+    return description
 
 def findCategory(soup):
     for tag in soup.find_all(attrs={"class": "gz-breadcrumb"}):
