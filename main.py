@@ -121,7 +121,6 @@ def downloadPage(linkToDownload):
 
 def downloadAllRecipesFromGialloZafferano():
     totalPages = countTotalPages() + 1
-    # for pageNumber in range(1,totalPages):
     for pageNumber in tqdm(range(1, totalPages), desc="pages…", ascii=False, ncols=75):
         linkList = "https://www.giallozafferano.it/ricette-cat/page" + str(pageNumber)
         response = requests.get(linkList)
@@ -150,3 +149,4 @@ if __name__ == "__main__":
     if not os.path.exists(folderRecipes):
         os.makedirs(folderRecipes)
     downloadAllRecipesFromGialloZafferano()
+
