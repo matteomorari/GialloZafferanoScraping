@@ -76,29 +76,20 @@ def findCategory(soup):
 
 
 def findImage(soup):
+    # First case: gz-type-photo
+    pictures = soup.find(
+        "div", attrs={"class": "gz-featured-image-video gz-type-photo gz-critical"}
+    )
 
-    # Find the first picture tag
-    pictures = soup.find("picture", attrs={"class": "gz-featured-image"})
-
-    # Fallback: find a div with class `gz-featured-image-video gz-type-photo`
+    # Second case: gz-type-video
     if pictures is None:
         pictures = soup.find(
-            "div", attrs={"class": "gz-featured-image-video gz-type-photo"}
+            "div", attrs={"class": "gz-featured-image-video gz-type-video gz-critical"}
         )
 
     imageSource = pictures.find("img")
 
-    # Most of the times the url is in the `data-src` attribute
-    imageURL = imageSource.get("data-src")
-
-    # Fallback: if not found in `data-src` look for the `src` attr
-    # Most likely, recipes which have the `src` attr
-    # instead of the `data-src` one
-    # are the older ones.
-    # As a matter of fact, those are the ones enclosed
-    # in <div> tags instead of <picture> tags (supported only on html5 and onward)
-    if imageURL is None:
-        imageURL = imageSource.get("src")
+    imageURL = imageSource.get("src")
 
     imageToBase64 = str(base64.b64encode(requests.get(imageURL).content))
     imageToBase64 = imageToBase64[2 : len(imageToBase64) - 1]
