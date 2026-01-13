@@ -102,7 +102,7 @@ def calculateFilePath(title):
 
 
 def createFileJson(data, path):
-    with open(path, "w") as file:
+    with open(path, "w", encoding="utf-8") as file:
         file.write(json.dumps(data, ensure_ascii=False))
 
 
