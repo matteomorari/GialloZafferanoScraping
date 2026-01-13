@@ -3,9 +3,6 @@ import traceback
 import json
 import os
 import re
-import string
-import urllib.request
-from string import digits
 
 import requests
 from bs4 import BeautifulSoup
@@ -16,7 +13,6 @@ from ModelRecipe import ModelRecipe
 folderRecipes = "Recipes"
 baseURL = "https://www.giallozafferano.it/ricette-cat" # it
 # baseURL = "https://www.giallozafferano.com/latest-recipes" # us
-
 
 def saveRecipe(linkRecipeToDownload):
     soup = downloadPage(linkRecipeToDownload)
@@ -51,7 +47,6 @@ def findTitle(soup):
 def findIngredients(soup):
     allIngredients = []
     for tag in soup.find_all(attrs={"class": "gz-ingredient"}):
-        link = tag.a.get("href")
         nameIngredient = tag.a.string
         contents = tag.span.contents[0]
         quantityProduct = re.sub(r"\s+", " ", contents).strip()
