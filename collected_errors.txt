@@ -1,0 +1,1546 @@
+Error saving recipe from https://ricette.giallozafferano.it/Risotto-con-zucchine.html
+ValueError: Could not parse ingredient quantity: 'un filo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'un filo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Orata-all-acqua-pazza.html
+ValueError: Could not parse ingredient quantity: 'un ciuffetto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'un ciuffetto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Frolla-Milano.html
+ValueError: Could not parse ingredient quantity: 'mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Crostata-ai-frutti-di-bosco.html
+ValueError: Could not parse ingredient quantity: 'mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Crostatine-alla-marmellata.html
+ValueError: Could not parse ingredient quantity: 'i semi di un baccello'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'i semi di un baccello'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Croccante-alle-mandorle.html
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Torta-ricotta-e-pere.html
+ValueError: Could not parse ingredient quantity: 'un terzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'un terzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Fusilli-al-pesto-di-zucchine-con-salmone.html
+ValueError: Could not parse ingredient quantity: 'il succo di mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'il succo di mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pesce-finto.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Couscous-alla-marocchina.html
+ValueError: Could not parse ingredient quantity: ''
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: ''
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Mozzarella-ripiena.html
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Fusi-di-pollo-al-miele.html
+ValueError: Could not parse ingredient quantity: 'mezzo cucchiaino'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo cucchiaino'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Suppli-al-telefono.html
+ValueError: Could not parse ingredient quantity: 'mezza'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pesce-spada-in-salmoriglio.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Torta-di-more.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Risotto-degli-innamorati.html
+ValueError: Could not parse ingredient quantity: 'una noce'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'una noce'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pesto-di-barbabietola.html
+ValueError: Could not parse ingredient quantity: 'di mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'di mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Veneziane-alla-crema.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Peperoni-coi-capperi.html
+ValueError: Could not parse ingredient quantity: 'una manciata'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'una manciata'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Crostatine-alla-Nutella.html
+ValueError: Could not parse ingredient quantity: 'mezza'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Avocado-ripieno.html
+ValueError: Could not parse ingredient quantity: 'mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Burger-di-patate.html
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Mousse-di-fragole.html
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Casoncelli.html
+ValueError: Could not parse ingredient quantity: ''
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: ''
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Coppa-variegata-ai-frutti-di-bosco.html
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Girelle-con-gocce-di-cioccolato.html
+UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0D37BBA0>
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 55, in saveRecipe
+    imageBase64 = findImage(soup)
+                  ^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 184, in findImage
+    image = Image.open(io.BytesIO(imageResponse.content))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\matte\Geek\python\GialloZafferanoScraping\.venv\Lib\site-packages\PIL\Image.py", line 3711, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0D37BBA0>
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Risotto-alle-mazzancolle.html
+ValueError: Could not parse ingredient quantity: 'gusci e teste'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'gusci e teste'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Polpo-ubriaco.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Fiori-di-peperoni-con-uova.html
+ValueError: Could not parse ingredient quantity: 'mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Astice-alla-Catalana.html
+ValueError: Could not parse ingredient quantity: 'di mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'di mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Torta-arcobaleno.html
+ValueError: Could not parse ingredient quantity: 'in pasta o gel: arancione, rosso, blu, verde, giallo, viola'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'in pasta o gel: arancione, rosso, blu, verde, giallo, viola'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Risotto-agli-asparagi-e-scampi.html
+ValueError: Could not parse ingredient quantity: 'gli scarti di quelli utilizzati per la ricetta'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'gli scarti di quelli utilizzati per la ricetta'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Crostata-ricotta-e-visciole.html
+ValueError: Could not parse ingredient quantity: 'mezza bacca'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza bacca'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tagine-di-agnello.html
+ValueError: Could not parse ingredient quantity: 'fogliolina qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'fogliolina qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Filetto-di-manzo-in-crosta.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tonno-di-coniglio.html
+ValueError: Could not parse ingredient quantity: 'abbondante'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'abbondante'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tagliatelle-all-arancia.html
+ValueError: Could not parse ingredient quantity: 'qualche stelo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche stelo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Frappe-ai-frutti-di-bosco.html
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Insalata-di-cavolo-cappuccio.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Torta-all-acqua-al-limone-e-zenzero.html
+ValueError: Could not parse ingredient quantity: 'giallo, mezzo cucchiaino'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'giallo, mezzo cucchiaino'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Flan-alle-prugne-Far-Breton.html
+ValueError: Could not parse ingredient quantity: 'mezzo bicchierino'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo bicchierino'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Vellutata-di-piselli-e-patate-con-briciole-di-tonno.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Riso-e-fagioli.html
+ValueError: Could not parse ingredient quantity: 'da pulire'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'da pulire'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Frittata-al-forno-ai-ceci.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Panna-cotta-al-cocco-con-coulis-di-lamponi.html
+ValueError: Could not parse ingredient quantity: 'a piacere'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'a piacere'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Dolci-sospiri.html
+ValueError: Could not parse ingredient quantity: 'mezza'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Bruschette-brunch.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Linguine-scampi-e-cognac.html
+ValueError: Could not parse ingredient quantity: 'gli scarti'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'gli scarti'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Chips-di-verdure.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Ragu-di-tacchino.html
+ValueError: Could not parse ingredient quantity: 'scarti e ossa'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'scarti e ossa'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Filetto-di-merluzzo-allo-zenzero.html
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tronchetto-di-Natale-innevato.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Raclette.html
+UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0C87ACA0>
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 55, in saveRecipe
+    imageBase64 = findImage(soup)
+                  ^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 184, in findImage
+    image = Image.open(io.BytesIO(imageResponse.content))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\matte\Geek\python\GialloZafferanoScraping\.venv\Lib\site-packages\PIL\Image.py", line 3711, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0C87ACA0>
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Risotto-salsiccia-e-spinaci.html
+ValueError: Could not parse ingredient quantity: 'mezzo bicchiere'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo bicchiere'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Manfredi-con-la-ricotta.html
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Finto-ramen-veg.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Minestra-di-verdure-estiva.html
+UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0D6ADC60>
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 55, in saveRecipe
+    imageBase64 = findImage(soup)
+                  ^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 184, in findImage
+    image = Image.open(io.BytesIO(imageResponse.content))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\matte\Geek\python\GialloZafferanoScraping\.venv\Lib\site-packages\PIL\Image.py", line 3711, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0D6ADC60>
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Alberi-di-Natale-brownies.html
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Macarons-multicolor.html
+ValueError: Could not parse ingredient quantity: 'viola, rosa, giallo, arancione'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'viola, rosa, giallo, arancione'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tagliolini-all-astice-su-crema-di-burrata.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Biscotti-fiammifero.html
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche goccia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Riso-venere-con-ciuffi-di-calamari-e-mazzancolle.html
+ValueError: Could not parse ingredient quantity: ''
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: ''
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Sorbetto-di-ananas-e-menta.html
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Club-sandwich-con-uova-strapazzate.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Cupcakes-mostruosi-di-Halloween.html
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Carpaccio-di-tonno-con-salsa-al-frutto-della-passione.html
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Zelten.html
+ValueError: Could not parse ingredient quantity: 'mezzo cucchiaino'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo cucchiaino'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Gelatina-di-petali-di-rosa.html
+UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0D556DE0>
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 55, in saveRecipe
+    imageBase64 = findImage(soup)
+                  ^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 184, in findImage
+    image = Image.open(io.BytesIO(imageResponse.content))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\matte\Geek\python\GialloZafferanoScraping\.venv\Lib\site-packages\PIL\Image.py", line 3711, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x000001BE0D556DE0>
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Aspic-millecolori-con-gelatina-alla-birra.html
+ValueError: Could not parse ingredient quantity: 'mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Vellutata-di-lenticchie-in-crosta.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Baci-di-champignon.html
+ValueError: Could not parse ingredient quantity: 'ago qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'ago qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Cheesecake-al-tonno.html
+ValueError: Could not parse ingredient quantity: 'qualche stelo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche stelo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Spaghetti-al-pesto-con-alici-e-peperoni.html
+ValueError: Could not parse ingredient quantity: 'mezzo spicchio'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo spicchio'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Petali-di-rosa-brinati.html
+ValueError: Could not parse ingredient quantity: 'non trattate di svariati colori'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'non trattate di svariati colori'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Portobello-burger.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Panzerotti-ai-broccoli-e-acciughe.html
+ValueError: Could not parse ingredient quantity: 'mezzo spicchio'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo spicchio'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Woodland-cake-di-panettone.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Millefoglie-di-pasta-fillo-con-pere-e-brie.html
+ValueError: Could not parse ingredient quantity: 'una confezione'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'una confezione'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pasta-al-pomodoro-arrosto-con-melanzane-e-zucchine.html
+ValueError: Could not parse ingredient quantity: ''
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: ''
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Cartocci-di-vitello-e-verdure.html
+ValueError: Could not parse ingredient quantity: 'rametto qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'rametto qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Cobbler-di-frutti-rossi.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Gnocchetti-al-nero-di-seppia-con-salsa-di-spigola-e-zafferano.html
+ValueError: Could not parse ingredient quantity: 'mezzo bicchiere'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo bicchiere'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Egg-burger.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Chiocciole-salate-verdure-e-pancetta.html
+ValueError: Could not parse ingredient quantity: 'mezzo rosso e mezzo giallo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo rosso e mezzo giallo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Ossa-di-meringa-per-Halloween.html
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Bocconcini-di-mozzarella-e-sardine.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Confettura-di-fichi-d-India.html
+ValueError: Could not parse ingredient quantity: 'il succo di uno'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'il succo di uno'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pasta-al-pane.html
+ValueError: Could not parse ingredient quantity: 'mezzo spicchio'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo spicchio'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Risotto-ai-tre-sedani.html
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'goccia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Panadas.html
+ValueError: Could not parse ingredient quantity: 'mezzo bicchiere'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo bicchiere'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Parmigiana-di-verdure-invernali.html
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'foglia qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Dolce-albero-di-Natale.html
+ValueError: Could not parse ingredient quantity: 'colorata e palline di zucchero argento'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'colorata e palline di zucchero argento'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tagliatelle-al-ragu-di-funghi-e-frutta-secca.html
+ValueError: Could not parse ingredient quantity: 'mezza costa'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza costa'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tortelli-poveri.html
+ValueError: Could not parse ingredient quantity: 'mezza, non trattata'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza, non trattata'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Verdure-in-crosta.html
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche foglia'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Chitarra-al-nero-di-olive-con-asparagi-e-pancetta.html
+ValueError: Could not parse ingredient quantity: 'mezzo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Marmellata-d-uva-fragola.html
+ValueError: Could not parse ingredient quantity: 'metà busta'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà busta'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Torre-di-ziti-ripieni.html
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Gingerbread-muffin.html
+ValueError: Could not parse ingredient quantity: 'un pizzico'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'un pizzico'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Borsch-di-seitan.html
+ValueError: Could not parse ingredient quantity: 'qualche ciuffo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche ciuffo'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Cotolette-di-zucca.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto fresco'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto fresco'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pain-perdu-con-mele-caramellate.html
+ValueError: Could not parse ingredient quantity: 'mezzo cucchiaino'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezzo cucchiaino'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Cake-terai.html
+ValueError: Could not parse ingredient quantity: 'in cioccolato bianco'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'in cioccolato bianco'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Fagottini-con-lenticchie-salsiccia-e-formaggio.html
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche rametto'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Gnochi-coi-Useleti-Gnocchi-con-gli-involtini-di-carne.html
+ValueError: Could not parse ingredient quantity: 'mezza'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Ostriche-gratinate-con-acciughe-e-capperi-di-Pantelleria.html
+ValueError: Could not parse ingredient quantity: 'macinato a piacere'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'macinato a piacere'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Bicchieri-di-albicocche-e-robiola.html
+ValueError: Could not parse ingredient quantity: 'aghetto qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'aghetto qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Caffe-meringato.html
+ValueError: Could not parse ingredient quantity: 'metà'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'metà'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Tasche-di-pollo-ripiene-di-gamberetti.html
+ValueError: Could not parse ingredient quantity: 'le teste ed i carapaci'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'le teste ed i carapaci'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Risotto-con-ragu-di-verdure-e-branzino-spadellato-alla-salvia.html
+ValueError: Could not parse ingredient quantity: ''
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: ''
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Filetto-in-crosta-con-salsa-al-Porto.html
+ValueError: Could not parse ingredient quantity: 'tranci di filetto di manzo Black angus'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'tranci di filetto di manzo Black angus'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Il-Ricercato.html
+ValueError: Could not parse ingredient quantity: 'secco, macinato grossolanamente'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'secco, macinato grossolanamente'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Cuoppo-alla-milanese.html
+ValueError: Could not parse ingredient quantity: 'qualche'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Struffoli-con-creme-al-latte.html
+ValueError: Could not parse ingredient quantity: 'mezza'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'mezza'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Torcelli-con-ricotta-e-Capocollo.html
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche fogliolina'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pere-e-cioccolato-al-caramello-salato.html
+ValueError: Could not parse ingredient quantity: 'una noce'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'una noce'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Mummie-di-pasta.html
+ValueError: Could not parse ingredient quantity: 'denocciolate'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'denocciolate'
+
+********************
+Error saving recipe from https://ricette.giallozafferano.it/Pasta-con-pisellini-zucca-arrosto-e-ricotta.html
+ValueError: Could not parse ingredient quantity: 'qualche ciuffo'
+Traceback (most recent call last):
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 225, in downloadAllRecipesFromGialloZafferano
+    saveRecipe(link)
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 50, in saveRecipe
+    ingredients = findIngredients(soup)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\matte\Geek\python\GialloZafferanoScraping\main.py", line 114, in findIngredients
+    raise ValueError(
+ValueError: Could not parse ingredient quantity: 'qualche ciuffo'
+
+********************

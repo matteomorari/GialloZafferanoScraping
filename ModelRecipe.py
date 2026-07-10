@@ -4,13 +4,19 @@ class ModelRecipe:
     category = ""
     description = []
     ingredients = []
+    prepTime = 0
+    cookTime = 0
+    doses = 0
 
     def toDictionary(self):
         recipe = {
-            "imageBase64": self.imageBase64,
             "title": self.title,
             "category": self.category,
-            "description": self.description,
+            "prepTime": self.prepTime,
+            "cookTime": self.cookTime,
+            "doses": self.doses,
             "ingredients": self.ingredients,
+            "description": self.description,
+            "imageBase64": self.imageBase64,
         }
         return recipe
